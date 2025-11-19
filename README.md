@@ -6,7 +6,6 @@
 Total: 13 🚀(?)
 
 ---
-Here is your table with the **Difficulty** column added, preserving your exact file paths and notes.
 
 | Index | Category | Problem | Note | Difficulty |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +21,7 @@ Here is your table with the **Difficulty** column added, preserving your exact f
 | 10 | Stacks | [Minimum stack](https://www.google.com/search?q=./01-Python/04-Stacks/min-stack.py) | keep track of minimum values with another list, remember to also add equal values to it | 🟡 |
 | 11 | Stacks | [Next greater array](https://www.google.com/search?q=./01-Python/04-Stacks/next-greater.py) | Monotonic stack, loop to iterate, loop for current\>stack elements: to pop stack, which tracks the indexes to be filled | 🟢 |
 | 12 | Trees | [Max depth](https://www.google.com/search?q=./01-Python/05-Trees/max-depth.py) | Recursion - base case: 0 if leaf node, recursive: 1 + max(max depth of left, max depth of right) | 🟢 |
-| 13 | Trees | [Validate BST](https://www.google.com/search?q=./01-Python/05-Trees/bst.py) | helper function with range, (initially from -inf to inf), left nodes must be less than root val and right must be greater than | 🟡 |
+| 13 | Trees | [Validate BST](https://www.google.com/search?q=./01-Python/05-Trees/bst.py) | helper function with range, (initially from -inf to inf), left nodes < root val < right | 🟡 |
 ---
 ---
 > 01-Python (Priority): To learn DSA and build up Python Expertise at the same time, useful for System design and ML.
