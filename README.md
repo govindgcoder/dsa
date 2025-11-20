@@ -3,7 +3,7 @@
 ---
 
 ### Python
-Total: 15 🚀(?)
+Total: 17 🚀(?)
 
 ---
 
@@ -24,7 +24,10 @@ Total: 15 🚀(?)
 | 13 | Trees | [Validate BST](./01-Python/05-Trees/bst.py) | helper function with range, (initially from -inf to inf), left nodes < root val < right | 🟡 |
 | 14 | Trees | [Recursive Tree traversal](./01-Python/05-Trees/recursive-tree-traversal.py) | recursion on left, right and then print root | 🟢 |
 | 15 | Trees | [Iterative Tree traversal](./01-Python/05-Trees/iterative-tree-traversal.py) | recursion stack - explore till none on left - backtrack - check right at every step | 🟡 |
+| 16 | Trees | [Diameter of Tree](./01-Python/05-Trees/dia-of-bst.py) | Recursive - similar to height - at each step, update max diameter | 🟢 |
+|17 | HashMaps | Valid Anagram | using hashmap, compare character frequency after length - T.C O(n) - S.C O(n) | 🟢 |
 ---
+
 ---
 > 01-Python (Priority): To learn DSA and build up Python Expertise at the same time, useful for System design and ML.
 ---
