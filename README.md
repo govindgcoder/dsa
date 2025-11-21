@@ -3,7 +3,7 @@
 ---
 
 ### Python
-Total: 17 🚀(?)
+Total: 19 🚀(?)
 
 ---
 
@@ -25,7 +25,9 @@ Total: 17 🚀(?)
 | 14 | Trees | [Recursive Tree traversal](./01-Python/05-Trees/recursive-tree-traversal.py) | recursion on left, right and then print root | 🟢 |
 | 15 | Trees | [Iterative Tree traversal](./01-Python/05-Trees/iterative-tree-traversal.py) | recursion stack - explore till none on left - backtrack - check right at every step | 🟡 |
 | 16 | Trees | [Diameter of Tree](./01-Python/05-Trees/dia-of-bst.py) | Recursive - similar to height - at each step, update max diameter | 🟢 |
-|17 | HashMaps | Valid Anagram | using hashmap, compare character frequency after length - T.C O(n) - S.C O(n) | 🟢 |
+|17 | HashMaps | [Valid Anagram](./01-Python/06-HashMaps/valid-anagram.py) | using hashmap, compare character frequency after length - T.C O(n) - S.C O(n) | 🟢 |
+| 18 | HashMaps | [Two Sums](./01-Python/06-HashMaps/two-sums.py) | store num in hashmap(dict), find and retrieve complement if present - O(n^2) -> O(n) | 🟢 |
+| 19 | HashMaps | [Group Anagrams](./01-Python/06-HashMaps/group-anagrams.py) | sorted tuple of chars as key, T.C O(n x k log k), S.C O(nk) <= n is no of strings and k is the number of chars | 🟡 |
 ---
 
 ---
