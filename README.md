@@ -1,9 +1,9 @@
-# Repo to keep track of DSA problems
+# Repo to keep track of DSA problems I've been learning
 
 ---
 
 ### Python
-Total: 22 🚀(?)
+Total: 24 🚀(?)
 
 ---
 
@@ -31,6 +31,8 @@ Total: 22 🚀(?)
 | 20 | Sorting | [Merge sorted arrays](./01-Python/07-Sorting/merge-sorted-arrays.py) | merge two sorted arrays into one sorted array, used three pointers: nums1=[a,b,0,0], nums2=[c,d] | 🟢 |
 | 21 | Sorting | [Merge Sort](./01-Python/07-Sorting/merge-sort.py) | divide and conquer, recursively split arrays, merge sorted halves, T.C O(nlogn), S.C O(n) | 🟡 |
 | 22 | Sorting | [Quick Sort](./01-Python/07-Sorting/quick-sort.py) | divide and conquer, partitioning, recursive sorting, T.C avg:O(nlogn) worst:O(n2) , S.C O(logn)| 🟡 |
+| 23 | Searching | [Search Insert Position](./01-Python/08-Binary-Search/search-insert-pos.py) | Binary search to find the target or the position where it would be inserted | 🟢 |
+| 24 | Searching | [Search in Rotated Sorted Array](./01-Python/08-Binary-Search/search-rotated-sorted-arr.py) | Modified binary search, identify sorted half, adjust search range accordingly | 🟡 |
 ---
 
 ---
