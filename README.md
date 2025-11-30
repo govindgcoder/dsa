@@ -2,8 +2,8 @@
 
 ---
 
-### Python
-Total: 24 🚀(?)
+### Basics with Python
+Total: 29 🚀(?)
 
 ---
 
@@ -32,7 +32,12 @@ Total: 24 🚀(?)
 | 21 | Sorting | [Merge Sort](./01-Python/07-Sorting/merge-sort.py) | divide and conquer, recursively split arrays, merge sorted halves, T.C O(nlogn), S.C O(n) | 🟡 |
 | 22 | Sorting | [Quick Sort](./01-Python/07-Sorting/quick-sort.py) | divide and conquer, partitioning, recursive sorting, T.C avg:O(nlogn) worst:O(n2) , S.C O(logn)| 🟡 |
 | 23 | Searching | [Search Insert Position](./01-Python/08-Binary-Search/search-insert-pos.py) | Binary search to find the target or the position where it would be inserted | 🟢 |
-| 24 | Searching | [Search in Rotated Sorted Array](./01-Python/08-Binary-Search/search-rotated-sorted-arr.py) | Modified binary search, identify sorted half, adjust search range accordingly | 🟡 |
+| 24 | Searching | [Search in Rotated Sorted Array](./01-Python/08-Binary-Search/search-rotated-sorted-arr.py) | Modified binary search, identify sorted half, adjust search range accordingly, O(logn) | 🟡 |
+| 25 | Graphs | [Adjacency List, BFS, DFS](./01-Python/09-Graphs/adjacency-list.py) | adjacency list representation, BFS for level-order traversal, DFS for depth exploration | 🟡 |
+| 26 | Graphs | [Number of Islands](./01-Python/09-Graphs/number-of-islands.py) | DFS to explore connected components, mark visited by sinking them (1->0), update count, T.C O(m*n)| 🟡 |
+| 27 | Recursion | [All Subsets](./01-Python/10-Recursion/all-subsets.py) | Backtracking, explore - include & exclude each element| 🟡 |
+| 28 | Recursion | [All Permutations](./01-Python/10-Recursion/all-permutations.py) | Backtracking, swap elements to generate permutations| 🟡 |
+| 29 | Dynamic Programming | [Climbing Stairs](./01-Python/11-Dynamic-Programming/climbing-stairs.py) | Fibonacci sequence approach, T.C O(n), S.C O(1) | 🟢 |
 ---
 
 ---
