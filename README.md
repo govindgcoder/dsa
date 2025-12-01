@@ -3,7 +3,7 @@
 ---
 
 ### Basics with Python
-Total: 29 🚀(?)
+Total: 30 🚀(?)
 
 ---
 
@@ -37,7 +37,8 @@ Total: 29 🚀(?)
 | 26 | Graphs | [Number of Islands](./01-Python/09-Graphs/number-of-islands.py) | DFS to explore connected components, mark visited by sinking them (1->0), update count, T.C O(m*n)| 🟡 |
 | 27 | Recursion | [All Subsets](./01-Python/10-Recursion/all-subsets.py) | Backtracking, explore - include & exclude each element| 🟡 |
 | 28 | Recursion | [All Permutations](./01-Python/10-Recursion/all-permutations.py) | Backtracking, swap elements to generate permutations| 🟡 |
-| 29 | Dynamic Programming | [Climbing Stairs](./01-Python/11-Dynamic-Programming/climbing-stairs.py) | Fibonacci sequence approach, T.C O(n), S.C O(1) | 🟢 |
+| 29 | Dynamic Programming | [Climbing Stairs](./01-Python/11-Dynamic-Programming/climbing-stairs.py) | Fibonacci sequence approach (Top Down), T.C O(n), S.C O(1) | 🟢 |
+| 30 | Dynamic Programming | [climbing-stairs-tabulation.py](./01-Python/11-Dynamic-Programming/climbing-stairs-tabulation.py) | Fibonacci with loop | 🟢 |
 ---
 
 ---
