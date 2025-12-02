@@ -39,6 +39,7 @@ Total: 30 🚀(?)
 | 28 | Recursion | [All Permutations](./01-Python/10-Recursion/all-permutations.py) | Backtracking, swap elements to generate permutations| 🟡 |
 | 29 | Dynamic Programming | [Climbing Stairs](./01-Python/11-Dynamic-Programming/climbing-stairs.py) | Fibonacci sequence approach (Top Down), T.C O(n), S.C O(1) | 🟢 |
 | 30 | Dynamic Programming | [climbing-stairs-tabulation.py](./01-Python/11-Dynamic-Programming/climbing-stairs-tabulation.py) | Fibonacci with loop | 🟢 |
+| 31 | Dynamic Programming | [unique-paths.py](./01-Python/11-Dynamic-Programming/unique-paths.py) | grid, path counting, each cell can come from either left or top | 🟡 |
 ---
 
 ---
