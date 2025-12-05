@@ -2,8 +2,19 @@
 
 ---
 
+## NeetCode 150
+
+| Index | Problem | Note | Difficulty |
+| :--- | :--- | :--- | :--- |
+| 1 | [Contains Duplicate](./03-NeetCode-150/217-Contains-Duplicate.py) | Using a hashset to keep track of visited, T.C O(n) | 🟢 |
+| 2 | [Valid Anagram](./03-NeetCode-150/242-Valid-Anagram.py) | Compared two sorted arrays, T.C O(n log n) | 🟢 |
+| 3 | [Two Sum](./03-NeetCode-150/1-Two-Sum.py) | Hashmap to store and retrieve differences - T.C O(n) | 🟢 |
+| 4 | [Group Anagrams](./03-NeetCode-150/49-Group-Anagrams.py) | Hashmap to store sorted string as key, T.C O(n.l.logn) | 🟡 |
+| 5 | [Top K Frequent Elements](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Dict to count freq, sort the items, T.C O(n log n) | 🟡 |
+> | 5.1 | [Top K Frequent Elements (Bucket Sort)](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Bucket array to group elements by freq, T.C O(n) | 🟡 |
+
 ### Basics with Python
-Total: 30 🚀(?)
+Total: 31 🚀
 
 ---
 
