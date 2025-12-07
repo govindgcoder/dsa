@@ -11,7 +11,9 @@
 | 3 | [Two Sum](./03-NeetCode-150/1-Two-Sum.py) | Hashmap to store and retrieve differences - T.C O(n) | 🟢 |
 | 4 | [Group Anagrams](./03-NeetCode-150/49-Group-Anagrams.py) | Hashmap to store sorted string as key, T.C O(n.l.logn) | 🟡 |
 | 5 | [Top K Frequent Elements](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Dict to count freq, sort the items, T.C O(n log n) | 🟡 |
-> | 5.1 | [Top K Frequent Elements (Bucket Sort)](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Bucket array to group elements by freq, T.C O(n) | 🟡 |
+| 5.1 | [Top K Frequent Elements (Bucket Sort)](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Bucket array to group elements by freq, T.C O(n) | 🟡 |
+| 6 | [Encode and Decode Strings](./03-NeetCode-150/Encode-and-Decode-Strings.py) | Length - delimiter - string format to encode & decode, handles edge cases: empty str - both O(n)| 🟡 |
+| 7 | [Product of Array Except Self](./03-NeetCode-150/238-Product-of-Array-Except-Self.py) | Prefix and postfix product arrays - postfix as variable, T.C O(n), S.C O(1) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
