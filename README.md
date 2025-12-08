@@ -14,6 +14,8 @@
 | 5.1 | [Top K Frequent Elements (Bucket Sort)](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | Bucket array to group elements by freq, T.C O(n) | 🟡 |
 | 6 | [Encode and Decode Strings](./03-NeetCode-150/Encode-and-Decode-Strings.py) | Length - delimiter - string format to encode & decode, handles edge cases: empty str - both O(n)| 🟡 |
 | 7 | [Product of Array Except Self](./03-NeetCode-150/238-Product-of-Array-Except-Self.py) | Prefix and postfix product arrays - postfix as variable, T.C O(n), S.C O(1) | 🟡 |
+| 8 | [Valid Sudoku](./03-NeetCode-150/36-Valid-Sudoku.py) | two loops - checked row and column with zero array, hashmap for boxes (each a set), T.C O(n2), S.C O(n2) | 🟡 |
+| 9 | [Longest Consecutive Sequence](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | convert to set to remove duplicates and O(1) checking - number-1 not in set => start of sequence - start counting - T.C O(n) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
