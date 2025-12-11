@@ -18,6 +18,8 @@
 | 9 | [Longest Consecutive Sequence](./03-NeetCode-150/347-Top-K-Frequent-Elements.py) | convert to set to remove duplicates and O(1) checking - number-1 not in set => start of sequence - start counting - T.C O(n) | 🟡 |
 | 10 | [Valid Palindrome](./03-NeetCode-150/125-Valid-Palindrome.py) | Checks if a string is a palindrome using alphanumeric characters and two pointers, T.C O(N), S.C O(1) | 🟢 |
 | 11 | Two Sum II Input Array Sorted | two pointers from left and right - T.C O(n) S.C O(1) | 🟡 |
+| 12 | [3Sum](./03-NeetCode-150/15-3Sum.py) | Sort array, iterate through each element, use two pointers to find pairs that sum to target 0, skip duplicates for i & j, T.C O(n^2), S.C O(1) | 🟡 |
+| 13 | [Container With Most Water](./03-NeetCode-150/11-Container-With-Most-Water.py) | Greedy approach - two pointers from left and right, move the pointer with smaller height, T.C O(n), S.C O(1) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
