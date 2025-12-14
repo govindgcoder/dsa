@@ -33,6 +33,7 @@ def maxArea(height):
 		maxVal = max(area, maxVal)
 		if height[lp]==minVal:
 			lp+=1
+			
 		else:
 			rp-=1
 	return maxVal
