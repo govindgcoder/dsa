@@ -4,12 +4,9 @@ Output: [1,2]
 
 """
 
-import heapq
-
-
-nums = [4,1,-1,2,-1,2,3]
+nums = [4, 1, -1, 2, -1, 2, 3]
 k = 2
-#naive solution
+# naive solution
 # def topKfrequent(nums,k):
 #     map = {}
 #     for i in nums:
@@ -21,21 +18,23 @@ k = 2
 #     keys = list(_[0] for _ in ordered)
 #     return keys[:k]
 
-def topKfrequent(nums,k):
+
+def topKfrequent(nums, k):
     count = {}
     n = len(nums)
     m = k
-    freq = [[] for _ in range(n+1)]
+    freq = [[] for _ in range(n + 1)]
     res = []
     for i in nums:
         count[i] = 1 + count.get(i, 0)
-    for i,j in count.items():
+    for i, j in count.items():
         freq[j].append(i)
-    for i in range(n-1,0,-1):
+    for i in range(n - 1, 0, -1):
         for j in freq[i]:
             res.append(j)
-            m-=1
-            if m==0:
+            m -= 1
+            if m == 0:
                 return res
 
-print(topKfrequent(nums,k))
+
+print(topKfrequent(nums, k))

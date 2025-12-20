@@ -23,6 +23,10 @@
 | 14 | [Trapping Rain Water](./03-NeetCode-150/42-Trapping-Rain-Water.py) | Using two pointers. left and right, calculate trapped water at each step - smallest of maxl and maxr - T.C O(n), S.C O(1) | 🔴 |
 | 15 | [Best Time to Buy and Sell Stock](./03-NeetCode-150/121-Best-Time-Stock.py) | Keep track of min price and max profit, T.C O(n), S.C O(1) | 🟢 |
 | 16 | [Longest Substring Without Repeating Characters](./03-NeetCode-150/3-Longest-Substring.py) | Sliding window with hashset, T.C O(n), S.C O(n) | 🟡 |
+| 17 | [Longest Repeating Character Replacement](./03-NeetCode-150/424-Longest-Repeating-Character-Replacement.py) | Sliding window with frequency dict, T.C O(n), S.C O(1) | 🟡 |
+| 18 | [Permutation in String](./03-NeetCode-150/567-Permutation-in-String.py) | Sliding window with frequency dict, T.C O(n), S.C O(1) | 🟡 |
+
+
 
 ### Basics with Python
 Total: 31 🚀
