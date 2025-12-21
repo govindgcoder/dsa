@@ -25,7 +25,7 @@
 | 16 | [Longest Substring Without Repeating Characters](./03-NeetCode-150/3-Longest-Substring.py) | Sliding window with hashset, T.C O(n), S.C O(n) | 🟡 |
 | 17 | [Longest Repeating Character Replacement](./03-NeetCode-150/424-Longest-Repeating-Character-Replacement.py) | Sliding window with frequency dict, T.C O(n), S.C O(1) | 🟡 |
 | 18 | [Permutation in String](./03-NeetCode-150/567-Permutation-in-String.py) | Sliding window with frequency dict, T.C O(n), S.C O(1) | 🟡 |
-
+| 19 | [Minimum Window Substring](./03-NeetCode-150/76-Minimum-Window-Substring.py) | Sliding window + hash for char freq(s), expand window until valid and then contracting it from the left to identify the shortest valid substring. return minimum length window T.C O(S+T), S.C O(T) | 🔴 |
 
 
 ### Basics with Python
