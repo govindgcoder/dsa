@@ -27,6 +27,7 @@
 | 18 | [Permutation in String](./03-NeetCode-150/567-Permutation-in-String.py) | Sliding window with frequency dict, T.C O(n), S.C O(1) | 🟡 |
 | 19 | [Minimum Window Substring](./03-NeetCode-150/76-Minimum-Window-Substring.py) | Sliding window + hash for char freq(s), expand window until valid and then contracting it from the left to identify the shortest valid substring. return minimum length window T.C O(S+T), S.C O(T) | 🔴 |
 | 20 | [Sliding Window Maximum](./03-NeetCode-150/239-Sliding-Window-Maximum.py) | Sliding window with max heap, T.C O(nlogk), S.C O(k), k is the window size | 🔴 |
+| 21 | [Valid Parentheses](./03-NeetCode-150/20-Valid-Paranthesis.py) | Stack with hashmap, T.C O(n), S.C O(n) | 🟢 |
 
 ### Basics with Python
 Total: 31 🚀
