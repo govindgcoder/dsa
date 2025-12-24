@@ -30,6 +30,7 @@
 | 21 | [Valid Parentheses](./03-NeetCode-150/20-Valid-Paranthesis.py) | Stack with hashmap, T.C O(n) | 🟢 |
 | 22 | [Min Stack](./03-NeetCode-150/155-Min-Stack.py) | Python list as a stack. Another stack is built by pushing the minimum of last minimum or current val.| 🟡 |
 | 23 | [Evaluate Reverse Polish Notation](./03-NeetCode-150/150-Evaluate-Reverse-Polish-Notation.py) | Stack with match case, T.C O(n) | 🟡 |
+| 24 | [Daily Temperatures](./03-NeetCode-150/739-Daily-Temperatures.py) | Monotonic stack of indices - pop while current temp > stack top and set (result[top] = i-top), T.C O(n), S.C O(n) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
