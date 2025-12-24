@@ -28,6 +28,8 @@
 | 19 | [Minimum Window Substring](./03-NeetCode-150/76-Minimum-Window-Substring.py) | Sliding window + hash for char freq(s), expand window until valid and then contracting it from the left to identify the shortest valid substring. return minimum length window T.C O(S+T), S.C O(T) | 🔴 |
 | 20 | [Sliding Window Maximum](./03-NeetCode-150/239-Sliding-Window-Maximum.py) | Sliding window with max heap, T.C O(nlogk), S.C O(k), k is the window size | 🔴 |
 | 21 | [Valid Parentheses](./03-NeetCode-150/20-Valid-Paranthesis.py) | Stack with hashmap, T.C O(n) | 🟢 |
+| 22 | [Min Stack](./03-NeetCode-150/155-Min-Stack.py) | Python list as a stack. Another stack is built by pushing the minimum of last minimum or current val.| 🟡 |
+| 23 | [Evaluate Reverse Polish Notation](./03-NeetCode-150/150-Evaluate-Reverse-Polish-Notation.py) | Stack with match case, T.C O(n) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
