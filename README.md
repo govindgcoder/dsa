@@ -34,6 +34,7 @@
 | 25 | [Car Fleet](./03-NeetCode-150/853-Car-Fleet.py) | Sort by position using zip(pos, speed) (descending	order), compute time to target = (target - pos) / speed; iterate and build a stack: current time when current time > stack top, return stack length. T.C O(n log n) due to sorting, S.C O(n) | 🟡 |
 | 26 | [Largest Rectangle In Histogram](./03-NeetCode-150/84-Largest-Rectangle-In-Histogram.py) | Monotonic stack built on the fly; calculate max area on each pop. Append a sentinel 0 to heights to flush remaining bars. T.C O(n), S.C O(n) | 🔴 |
 | 27 | [Binary Search](./03-NeetCode-150/704-Binary-Search.py) | Binary search on sorted array, T.C O(log n), S.C O(1) | 🟢 |
+| 28 | [Search a 2D Matrix](./03-NeetCode-150/74-Search-a-2D-Matrix.py) | matrix as an array, row=mid//n, col=mid%n, T.C O(log n), S.C O(1) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
