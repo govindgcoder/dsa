@@ -36,6 +36,7 @@
 | 27 | [Binary Search](./03-NeetCode-150/704-Binary-Search.py) | Binary search on sorted array, T.C O(log n), S.C O(1) | 🟢 |
 | 28 | [Search a 2D Matrix](./03-NeetCode-150/74-Search-a-2D-Matrix.py) | matrix as an array, row=mid//n, col=mid%n, T.C O(log n), S.C O(1) | 🟡 |
 | 29 | [Koko Eating Bananas](./03-NeetCode-150/875-Koko-eating-bananas.py) | Binary search on sorted array, T.C O(log n), S.C O(1) | 🟡 |
+| 30 | [Time Based Key-Value Store](./03-NeetCode-150/981-Time-Based-Key-Value-Store.py) | Dictionary of lists, binary search on each list, T.C O(log n), S.C O(n) | 🟡 |
 
 ### Basics with Python
 Total: 31 🚀
